@@ -180,7 +180,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -291,3 +290,4 @@ harness/**/ruvector.db
 # ruvector runtime/hook DB — never tracked (any depth)
 ruvector.db
 **/ruvector.db
+config.bat
